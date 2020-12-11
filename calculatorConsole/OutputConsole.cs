@@ -167,7 +167,7 @@ namespace calculatorConsole
             return Convert.ToDouble(arraylistcalccopy[arraylistcalccopy.Count - 1]);
         }
 
-        // Метод для вывода экранной заставки.abm
+        // Метод для вывода экранной заставки.
         public void ScreenSaverCalculator(Object obj)
         {
             Console.Beep(8000, 1000);
